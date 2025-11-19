@@ -1,11 +1,11 @@
 package org.example;
 
 public class Class {
-  private String name;
+  private String username;
 
-  public String getName() {
-    return name;
+  public String getUsername() {
+    return username;
   }
 
-  public void setName(String name) {}
+  public void setUsername(String username) {}
 }
